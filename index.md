@@ -4,7 +4,7 @@
    <link rel="stylesheet" href="styles.css"/>
        <script id="MathJax-script" async
      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
-     <script  src="./script.js" async></script>
+     <script  src="./script.js"></script>
   </head>
   <body>
      <div class="header">
